@@ -1,0 +1,8 @@
+Header header
+sbgPosition position
+sbgEuler euler
+sbgAttitudeAccuracy attitude_accuracy
+sbgNavAccuracy nav_accuracy
+sbgDeviceStatus device_status
+sbgUTCTime utc_time
+sbgOdoVelocity odo_velocity

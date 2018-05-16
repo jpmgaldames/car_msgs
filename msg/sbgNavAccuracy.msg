@@ -1,0 +1,2 @@
+float32 posaccuracy
+float32 velaccuracy

@@ -1,0 +1,4 @@
+Header header
+sbgGPSNavigation gps_navigation
+sbgGPSAccuracy gps_accuracy
+sbgOdoVelocity odo_velocity

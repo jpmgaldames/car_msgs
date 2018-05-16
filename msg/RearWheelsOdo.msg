@@ -1,0 +1,7 @@
+Header header
+uint16 pulses_right
+uint16 pulses_left
+float32 vel_right
+float32 vel_left
+float32 pulses_per_revolution_right
+float32 pulses_per_revolution_left

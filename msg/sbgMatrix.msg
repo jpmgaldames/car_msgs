@@ -1,0 +1,9 @@
+float32 R0
+float32 R1
+float32 R2
+float32 R3
+float32 R4
+float32 R5
+float32 R6
+float32 R7
+float32 R8
